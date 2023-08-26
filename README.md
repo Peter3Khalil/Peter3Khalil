@@ -21,6 +21,18 @@
 
 [![React]( https://img.shields.io/badge/React-202529?logo=react)](https://github.com/Peter3Khalil/)
 [![Nextjs]( https://img.shields.io/badge/Next.js-black?logo=next.js)](https://github.com/Peter3Khalil/)
+[![Redux]( https://img.shields.io/badge/Redux-black?logo=redux&logoColor=764abc)](https://github.com/Peter3Khalil/)
+[![Redux]( https://img.shields.io/badge/MatrialUi-black?logo=mui)](https://github.com/Peter3Khalil/)
+
+[![Nodejs]( https://img.shields.io/badge/Node.js-gray?logo=node.js)](https://github.com/Peter3Khalil/)
+[![Express]( https://img.shields.io/badge/Express-black?logo=express&logoColor=white)](https://github.com/Peter3Khalil/)
+[![Postgres]( https://img.shields.io/badge/Postgres-black?logo=postgresql)](https://github.com/Peter3Khalil/)
+[![Mongodb]( https://img.shields.io/badge/MongoDb-black?logo=mongodb)](https://github.com/Peter3Khalil/)
+
+[![git]( https://img.shields.io/badge/Git-black?logo=git)](https://github.com/Peter3Khalil/)
+[![github]( https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Peter3Khalil/)
+
+
 
 
 
