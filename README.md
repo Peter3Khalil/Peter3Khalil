@@ -10,7 +10,20 @@
 
 
 ### - Languages and Technologies
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/PoulaHelmy/)](https://github.com/Peter3Khalil/)
+[![HTML5]( https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)](https://github.com/Peter3Khalil/)
+[![CSS]( https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://github.com/Peter3Khalil/)
+[![Sass]( https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](https://github.com/Peter3Khalil/)
+[![Tailwindcss]( https://img.shields.io/badge/Tailwindcss-white?logo=tailwindcss)](https://github.com/Peter3Khalil/)
+[![Bootstrap]( https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap)](https://github.com/Peter3Khalil/)
+
+[![JavaScript]( https://img.shields.io/badge/Javascript-3c3e43?logo=javascript)](https://github.com/Peter3Khalil/)
+[![Typescript]( https://img.shields.io/badge/Typescript-007ACC?logo=typescript&logoColor=white)](https://github.com/Peter3Khalil/)
+
+[![React]( https://img.shields.io/badge/React-202529?logo=react)](https://github.com/Peter3Khalil/)
+[![Nextjs]( https://img.shields.io/badge/Next.js-black?logo=next.js)](https://github.com/Peter3Khalil/)
+
+
+
 
 
 
