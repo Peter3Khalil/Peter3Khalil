@@ -24,6 +24,9 @@
 [![Redux]( https://img.shields.io/badge/Redux-white?logo=redux&logoColor=764abc)](https://github.com/Peter3Khalil/)
 [![MUI]( https://img.shields.io/badge/MatrialUi-white?logo=mui)](https://github.com/Peter3Khalil/)
 
+[![Jest]( https://img.shields.io/badge/Jest-9A405B?logo=jest)](https://github.com/Peter3Khalil/)
+[![Jasmine]( https://img.shields.io/badge/Jasmine-white?logo=jasmine&logoColor=8B3F83)](https://github.com/Peter3Khalil/)
+
 [![Nodejs]( https://img.shields.io/badge/Node.js-gray?logo=node.js)](https://github.com/Peter3Khalil/)
 [![Express]( https://img.shields.io/badge/Express-black?logo=express&logoColor=white)](https://github.com/Peter3Khalil/)
 [![Postgres]( https://img.shields.io/badge/-Postgres-white?logo=postgresql)](https://github.com/Peter3Khalil/)
@@ -32,6 +35,13 @@
 [![git]( https://img.shields.io/badge/Git-black?logo=git)](https://github.com/Peter3Khalil/)
 [![github]( https://img.shields.io/badge/Github-black?logo=github)](https://github.com/Peter3Khalil/)
 
+### - Software Engineering Skills
+- Object Oriented Programming(OOP)
+- Algorithms
+- Data Structure
+- Solid principles
+- Problem Solving
+- Unit Testing
 <h3> 💬 Connect with me  </h3>
 <p >
 <a href="https://www.linkedin.com/in/peter-khalil-5bb849285/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
